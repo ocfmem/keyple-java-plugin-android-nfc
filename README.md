@@ -1,3 +1,4 @@
+TEST
 # Keyple Java Plugin Android NFC
 
 ## Overview
