@@ -7,7 +7,7 @@ The **Keyple Java Plugin Android NFC** contains interfaces and classes to manage
 
 This library **should be imported explicitly** by the main application.
 
-## User Guide & Download Information
+## User Guide & Download Information 
 
 The full documentation, including download information is available in the **Documentation** section of the official Keyple website [keyple.org](https://keyple.org)
 
